@@ -57,10 +57,8 @@
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ycassandra&layout=compact&hide_border=true&title_color=F78DA7&text_color=999999&bg_color=fff9f9" height="160" alt="languages graph" />
 </div>
 
-<div align="center">
-  <h3>📊 𝑀𝑖𝑠 𝐸𝑠𝑡𝑎𝑑𝑖́𝑠𝑡𝑖𝑐𝑎𝑠</h3>
+### 🏆 𝑀𝑖𝑠 𝐿𝑜𝑔𝑟𝑜𝑠
 
-  <img src="https://github-readme-stats.vercel.app/api?username=ycassandra&show_icons=true&hide_border=true&title_color=F78DA7&icon_color=B39CD0&text_color=999999&bg_color=fff9f9" height="160" alt="stats graph" />
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ycassandra&layout=compact&hide_border=true&title_color=F78DA7&text_color=999999&bg_color=fff9f9" height="160" alt="languages graph" />
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ycassandra&theme=flat&no-frame=true&no-bg=true&margin-w=15&margin-h=15" />
 </div>
