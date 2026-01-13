@@ -30,7 +30,7 @@
 <br/>
 
 <div align="center">
-  <h3>🪷 Tech Stack</h3>
+  <h3>🐚 Tech Stack</h3>
 
   <img src="https://img.shields.io/badge/html5-%23F799C9.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
   
