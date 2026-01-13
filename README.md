@@ -47,16 +47,6 @@
 </div>
 <br/><br/>
 
-### 📊 𝑀𝑖𝑠 𝐸𝑠𝑡𝑎𝑑𝑖́𝑠𝑡𝑖𝑐𝑎𝑠
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=ycassandra&locale=en&mode=weekly&theme=default&hide_border=true&background=FFF9F9&ring=F78DA7&fire=F78DA7&currStreakNum=B39CD0&sideNums=B39CD0&currStreakLabel=F78DA7&sideLabels=999999&dates=999999" alt="GitHub Streak" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ycassandra&layout=compact&hide_border=true&title_color=F78DA7&text_color=999999&bg_color=fff9f9" height="160" alt="languages graph" />
-</div>
-
 ### 🏆 𝑀𝑖𝑠 𝐿𝑜𝑔𝑟𝑜𝑠
 
 <div align="center">
