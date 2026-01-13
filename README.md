@@ -1,6 +1,6 @@
 <div align="center">
   
- [ <img src="https://via.placeholder.com/1000x200/FEE1E8/FEE1E8" alt="Banner Pastel" width="100%" style="border-radius: 15px">](https://i.pinimg.com/736x/71/53/3a/71533a00b705cb42441415253858eb29.jpg)
+  <img src="Banner.jpg" width="100%" style="border-radius: 15px;" alt="Banner Aesthetic">
 
   <br/><br/>
   
