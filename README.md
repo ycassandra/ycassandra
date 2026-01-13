@@ -47,7 +47,8 @@
 
 <br/><br/>
 <div align="center">
-  <img src="https://media.giphy.com/media/13CoXDiaCcCzrW/giphy.gif" width="100%" style="border-radius: 15px;">
+  <img src="Totoro.gif" width="250" style="border-radius: 15px;" alt="Totoro Gif">
+  
   <br/><br/>
   <p>✨ 𝑇ℎ𝑎𝑛𝑘𝑠 𝑓𝑜𝑟 𝑣𝑖𝑠𝑖𝑡𝑖𝑛𝑔! ✨</p>
 </div>
