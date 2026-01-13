@@ -31,24 +31,24 @@
 
 <div align="center">
   <h3>🐚 Tech Stack</h3>
+<br/>
 
   <img src="https://img.shields.io/badge/html5-%23F799C9.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  
   <img src="https://img.shields.io/badge/java-%23A0C4FF.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-  
   <img src="https://img.shields.io/badge/javascript-%23FFB7C5.svg?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript" />
   
+  <br/><br/>
+  
   <img src="https://img.shields.io/badge/adobe%20photoshop-%23B9D6F2.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white" alt="Photoshop" />
-  
   <img src="https://img.shields.io/badge/Canva-%23F799C9.svg?style=for-the-badge&logo=Canva&logoColor=white" alt="Canva" />
-  
   <img src="https://img.shields.io/badge/git-%23A0C4FF.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   
 </div>
+
 <br/><br/>
 
-### 🏆 𝑀𝑖𝑠 𝐿𝑜𝑔𝑟𝑜𝑠
-
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ycassandra&theme=flat&no-frame=true&no-bg=true&margin-w=15&margin-h=15" />
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" style="border-radius: 15px;">
+  <br/><br/>
+  <p>✨ 𝑇ℎ𝑎𝑛𝑘𝑠 𝑓𝑜𝑟 𝑣𝑖𝑠𝑖𝑡𝑖𝑛𝑔! ✨</p>
 </div>
