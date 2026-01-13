@@ -46,9 +46,8 @@
 </div>
 
 <br/><br/>
-
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" style="border-radius: 15px;">
+  <img src="https://i.pinimg.com/originals/b8/16/65/b816655086792110538301145047681a.gif" width="100%" style="border-radius: 15px;">
   <br/><br/>
   <p>✨ 𝑇ℎ𝑎𝑛𝑘𝑠 𝑓𝑜𝑟 𝑣𝑖𝑠𝑖𝑡𝑖𝑛𝑔! ✨</p>
 </div>
