@@ -1,5 +1,7 @@
 ## Hi, I'm Cassandra 🌸
 
+[![Welcome to my page 💗](https://readme-typing-svg.demolab.com/?lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)
+
 ✨ Student of Business Informatics
 
 <br> ![](team.gif)
