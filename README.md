@@ -1,6 +1,6 @@
 <div align="center">
   
-  <img src="https://via.placeholder.com/1000x200/FEE1E8/FEE1E8" alt="Banner Pastel" width="100%" style="border-radius: 15px">
+ [ <img src="https://via.placeholder.com/1000x200/FEE1E8/FEE1E8" alt="Banner Pastel" width="100%" style="border-radius: 15px">](https://i.pinimg.com/736x/71/53/3a/71533a00b705cb42441415253858eb29.jpg)
 
   <br/><br/>
   
@@ -32,17 +32,21 @@
 <br/>
 
 <div align="center">
-  <h3>🧸 Tech Stack & Herramientas</h3>
-  
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-A0C4FF?style=flat-square&logo=react&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-FFB347?style=flat-square&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-B9D6F2?style=flat-square&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-B5EAD7?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Figma-FFB7C5?style=flat-square&logo=figma&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-FF9AA2?style=flat-square&logo=git&logoColor=white" />
-</div>
+  <h3>🪷 Tech Stack</h3>
 
+  <img src="https://img.shields.io/badge/html5-%23F799C9.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  
+  <img src="https://img.shields.io/badge/java-%23A0C4FF.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  
+  <img src="https://img.shields.io/badge/javascript-%23FFB7C5.svg?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript" />
+  
+  <img src="https://img.shields.io/badge/adobe%20photoshop-%23B9D6F2.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white" alt="Photoshop" />
+  
+  <img src="https://img.shields.io/badge/Canva-%23F799C9.svg?style=for-the-badge&logo=Canva&logoColor=white" alt="Canva" />
+  
+  <img src="https://img.shields.io/badge/git-%23A0C4FF.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  
+</div>
 <br/><br/>
 
 <div align="center">
