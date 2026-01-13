@@ -17,16 +17,14 @@
 <br/>
 
 
-### 🩰 Un poquito sobre mí
+### 🎀 𝐴 𝑙𝑖𝑡𝑡𝑙𝑒 𝑏𝑖𝑡 𝑎𝑏𝑜𝑢𝑡 𝑚𝑒
 
-¡Hola! Bienvenid@ a mi pequeño rincón en GitHub. Me encanta combinar el código limpio con diseños visualmente agradables.
+𝐻𝑖! 𝑊𝑒𝑙𝑐𝑜𝑚𝑒 𝑡𝑜 𝑚𝑦 𝑙𝑖𝑡𝑡𝑙𝑒 𝑐𝑜𝑟𝑛𝑒𝑟 𝑜𝑛 𝐺𝑖𝑡𝐻𝑢𝑏.
 
 <ul>
-  <li>🌱 Actualmente estoy aprendiendo: <b>React y UI Design</b></li>
-  <li>🔭 Estoy trabajando en: <b>Un proyecto secreto muy cute</b></li>
-  <li>🍥 Mi herramienta favorita: <b>Figma & VS Code</b></li>
-  <li>💌 Cómo contactarme: <b>micorreo@email.com</b></li>
-  <li>🧁 Fun fact: Puedo pasar horas eligiendo paletas de colores.</li>
+  <li>☁️ 𝐶𝑢𝑟𝑟𝑒𝑛𝑡𝑙𝑦 𝑙𝑒𝑎𝑟𝑛𝑖𝑛𝑔: <b>Java & Git</b></li>
+  <li>🫧 𝑊𝑜𝑟𝑘𝑖𝑛𝑔 𝑜𝑛: <b>Different Projects</b></li>
+  <li>🦢 𝐹𝑎𝑣𝑜𝑟𝑖𝑡𝑒 𝑡𝑜𝑜𝑙𝑠: <b>IntelliJ IDEA</b></li>
 </ul>
 
 <br/>
