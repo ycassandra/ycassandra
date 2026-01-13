@@ -48,16 +48,9 @@
 <br/><br/>
 
 <div align="center">
+  <h3>📊 𝑀𝑖𝑠 𝐸𝑠𝑡𝑎𝑑𝑖́𝑠𝑡𝑖𝑐𝑎𝑠</h3>
+
   <img src="https://github-readme-stats.vercel.app/api?username=ycassandra&show_icons=true&hide_border=true&title_color=F78DA7&icon_color=B39CD0&text_color=999999&bg_color=fff9f9" height="160" alt="stats graph" />
   
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ycassandra&layout=compact&hide_border=true&title_color=F78DA7&text_color=999999&bg_color=fff9f9" height="160" alt="languages graph" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-</div>ps://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=dracula&hide_border=true&bg_color=20232a" height="180" alt="stats graph"  />
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=dracula&hide_border=true&bg_color=20232a" height="180" alt="languages graph"  />
 </div>
