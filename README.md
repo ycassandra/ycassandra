@@ -47,7 +47,7 @@
 
 <br/><br/>
 <div align="center">
-  <img src="https://i.pinimg.com/originals/b8/16/65/b816655086792110538301145047681a.gif" width="100%" style="border-radius: 15px;">
+  <img src="https://media.giphy.com/media/13CoXDiaCcCzrW/giphy.gif" width="100%" style="border-radius: 15px;">
   <br/><br/>
   <p>✨ 𝑇ℎ𝑎𝑛𝑘𝑠 𝑓𝑜𝑟 𝑣𝑖𝑠𝑖𝑡𝑖𝑛𝑔! ✨</p>
 </div>
