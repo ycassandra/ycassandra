@@ -37,7 +37,7 @@
   <img src="https://img.shields.io/badge/java-%23A0C4FF.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
   <img src="https://img.shields.io/badge/javascript-%23FFB7C5.svg?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript" />
   
-  <br/><br/>
+  <br/><br/> 🪷 🐚 🤍 🌸 🦢 ✨ 🫧 🕊️ 🌙 🤍
   
   <img src="https://img.shields.io/badge/adobe%20photoshop-%23B9D6F2.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white" alt="Photoshop" />
   <img src="https://img.shields.io/badge/Canva-%23F799C9.svg?style=for-the-badge&logo=Canva&logoColor=white" alt="Canva" />
